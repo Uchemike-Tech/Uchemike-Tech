@@ -18,6 +18,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-uchemichael.vercel.app-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://uchemichael.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-uche-731835368/)
 [![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uchemichaelbartholomew@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uchemike069@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Lagos,_Nigeria-Remote_Ready-1DB954?style=for-the-badge)](#)
 
 </div>
